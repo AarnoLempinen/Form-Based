@@ -1,0 +1,40 @@
+button {
+    color: rgb(255, 255, 255);
+     font-size: 16px;
+      line-height: 16px;
+       padding: 6px;
+        border-radius: 10px;
+         font-family: Georgia, serif;
+          font-weight: normal;
+           text-decoration: none;
+            font-style: normal;
+             font-variant: normal;
+              text-transform: none;
+background-image: linear-gradient(to right, rgb(28, 110, 164) 0%, rgb(35, 136, 203) 50%, rgb(20, 78, 117) 100%);
+box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; border: 2px solid rgb(28, 110, 164);
+                 display: inline-block;}
+
+                 h2{
+                    font-family: sans-serif;
+                    font-weight: 200;
+                    margin: 0;
+                    padding: 0;
+                    text-align: left;
+                    font-size: 18;
+                }
+    button:hover {
+    background: #1C6EA4; }
+    button:active {
+    background: #144E75; }
+    label{
+     font-size: large;
+     font-family: sans-serif;
+     color:rgb(59, 103, 103);
+    }
+    select{
+        width: 150;
+        height: 30px;
+        font-size: 15;
+        color: black;
+        background-color: rgb(198, 239, 225);
+    }
